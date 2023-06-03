@@ -37,5 +37,17 @@ public class Main {
         doubleModulo = doubleOperandA % doubleOperandB;
         System.out.println("The modulo of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleModulo + "." );
 
+        //starting second part, it did not explicitly say to create a new project so proceeding in this one
+
+        int numKidsInFamily = 7; //this is true actually
+        boolean isRaining = false;
+        double gasPrice = 3.687;
+        int favNumber = 11;
+        int shoeSize = 10;
+        String birthMonthWord = "November";
+        int numBirthMonth = 11;
+        String fullName = "John Marshall Muhlhauser, Jr.";
+
+
     }
 }
